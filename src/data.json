@@ -1,0 +1,62 @@
+[
+    {
+    "id": 1,
+    "image": "./assets/images/kareem.jpg",
+    "clicked": false
+},
+{
+    "id": 2,
+    "image": "./assets/images/fox.jpg",
+    "clicked": false
+},
+{
+    "id": 3,
+    "image": "./assets/images/horry.jpg",
+    "clicked": false
+},
+{
+    "id": 4,
+    "image": "./assets/images/james.png",
+    "clicked": false
+},
+{
+    "id": 5,
+    "image": "./assets/images/kobe.jpg",
+    "clicked": false
+},
+{
+    "id": 6,
+    "image": "./assets/images/kuzma.png",
+    "clicked": false
+},
+{
+    "id": 7,
+    "image": "./assets/images/magic.jpeg",
+    "clicked": false
+},
+{
+    "id": 8,
+    "image": "./assets/images/shaq.jpg",
+    "clicked": false
+},
+{
+    "id": 9,
+    "image": "./assets/images/Pau-Gasol-1.jpg",
+    "clicked": false
+},
+{
+    "id": 10,
+    "image": "./assets/images/vlade_divac.jpg",
+    "clicked": false
+},
+{
+    "id": 11,
+    "image": "./assets/images/malone.jpg",
+    "clicked": false
+},
+{
+    "id": 12,
+    "image": "./assets/images/Metta_World_Peace.jpg",
+    "clicked": false
+}
+]
